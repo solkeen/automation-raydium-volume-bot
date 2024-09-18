@@ -2,6 +2,20 @@
 
 Raydium volume bot + Monitor : This bot can proceed buy and sell over and over until token price is over $ XX
 
+<h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
+
+<p> 
+    <a href="mailto:nakao95911@gmail.com" target="_blank">
+        <img alt="Email"
+        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+     <a href="https://x.com/solkeen" target="_blank"><img alt="Twitter"
+        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+    <a href="https://discordapp.com/users/415742962119606272" target="_blank"><img alt="Discord"
+        src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://t.me/soIkeen" target="_blank"><img alt="Telegram"
+        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 ## How does it work
 
 This bot is designed to monitor and buy and sell or only buy
@@ -48,4 +62,13 @@ Addition : If you wanna use Automatic bot , Contact on ME with telegram !!!
 
 ## Result
 
+#### Bot Running
+![image](https://github.com/user-attachments/assets/3ffd09d1-cc59-4cb9-8f2e-1d2150429031)
+
+#### Volume Change
+![image](https://github.com/user-attachments/assets/300e066c-8d52-4b8b-933e-5ffa71b8c751)
+
+## In Addition
+
+If you want custom bot and bot running on other platform like telegram bot , bot integrate with vite , next , golang bot , rust bot and so on, Contact me please
 
