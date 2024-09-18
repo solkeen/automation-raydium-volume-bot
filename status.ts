@@ -122,24 +122,9 @@ async function trackWalletOnLog(connection: Connection, quoteVault: PublicKey): 
     connection.onLogs(
       quoteVault,
       async ({ logs, err, signature }) => {
-        if (err) { }
-        else {
-          
-          const parsedData = await connection.getParsedTransaction(signature, { maxSupportedTransactionVersion: 0, commitment: "confirmed" })
-          const signer = parsedData?.transaction.message.accountKeys.filter((elem: any) => {
-            return elem.signer == true
-          })[0].pubkey.toBase58()
 
-          // console.log(`\nTransaction success: https://solscan.io/tx/${signature}\n`)
-          if(!walletPks.includes(signer!)){
-            if (Number(parsedData?.meta?.preBalances[0]) > Number(parsedData?.meta?.postBalances[0])) {
-              buyNum++
-            } else {
-              sellNum++
-            }
-          }
-
-
+        //  check price and proceed buy and sell
+        
         }
       },
       "confirmed"
