@@ -1,0 +1,44 @@
+[
+    {
+        "privateKey": "3L1K8ykMq9uG6peVticMh2prhQMZNCpZhifjwUSowCMWyvDaii7c33nZd92PuXAD1VRHynJngR1WYT4RrpvFSoZE",
+        "pubkey": "JAuBo3ZEhnirpgwrmadzLLPraw12xmgLgLdux4WBHtUc",
+        "solBalance": 0.018779,
+        "tokenBuyTx": "https://solscan.io/tx/kd9QB4L7kPzapD77jM5PP3SV4E9ULaNDJ617nssPru97XFUSk4fMXzsrs135Vy481VBpepBBuDP5dmu7tL8yNQJ",
+        "tokenSellTx": null
+    },
+    {
+        "privateKey": "66uwdFmcg7xC5xhUjWb4YrkA3eXmTURnJypnZJppUBFwTdDboMmtrAsd55xHtoHQpjKhjHAfe9CXSmmLGpUNxn2E",
+        "pubkey": "3X6FPv9HGaY182xUfhgjRUA3dgspGvBLLEgK1KBKK5sG",
+        "solBalance": 0.026000000000000002,
+        "tokenBuyTx": null,
+        "tokenSellTx": null
+    },
+    {
+        "privateKey": "BSNKarnvtyWnSGhULU3P2Adxy4eNgqKPFYMGFUpxN1zbAuJPmtzoaySDAMAPCf7CSrk7kNPSAndbfEVtxoQjt4J",
+        "pubkey": "BxvuE9xf5YUneSjQDNyGLrokjZCtpUG3p86E7Jjf8D2A",
+        "solBalance": 17885522,
+        "tokenBuyTx": "https://solscan.io/tx/JPPEJydHdtcyqqH8AJ7TzBHGQ8CQY8d6v3zAoKPFPbPQ2YghE2vHtm1ZGrQS65FtYh4gfL74t5KEgctyPhbTpCy",
+        "tokenSellTx": "https://solscan.io/tx/4Ht4TVw19KFZHCnsSeHRkPMqxv2jNuVfczxbWdqyXcd6dSdVJaS2zpv68CrtwzooBgAhJy598xFvifyjViddZVPZ"
+    },
+    {
+        "privateKey": "5yR3jgRY8ZhQdUBurUXQbYgqxBu3bajFegCGZAZH6eNo65WLu96Uih4mhrGeCt5Lnu34fgm3H3L4QrFJZ2zbjzhd",
+        "pubkey": "H8tQZKzKtistVo6oV1NBh7EDNFnqXn2YHWcHZHg46y7u",
+        "solBalance": 0.026000000000000002,
+        "tokenBuyTx": null,
+        "tokenSellTx": null
+    },
+    {
+        "privateKey": "4Q5qXBPe8UBPVAarnu91bhF8a59SbdHF4zyGwsxZewVCeo5dMx951pox9xXn7DTGHZqifLgYUb1YQj4t5J32HgyP",
+        "pubkey": "EvMzgjSTWxzKuUWotz6C6G7d2oEmRsYthjgFweFavYq",
+        "solBalance": 0.018945,
+        "tokenBuyTx": "https://solscan.io/tx/3yxsuteJBz67Rq3TjYe1NCjb5GySTcZiit36gv5gzgViKqHLP63WYxbREA16yC17CekparrBUSv4coU2vvgFUQMJ",
+        "tokenSellTx": null
+    },
+    {
+        "privateKey": "5xdmRq4jS5vA9Fk7uBdzDZCaeLzX1MVkrAg3GEyXjFg2KCsoDn3an2w2Jx2ApzPudM3ruhiWqcRFFFM9XKE2HP7Q",
+        "pubkey": "AYNzirLmtU2zvSnXoiRrYYURdYH41x55qq2zJhDNh1Ez",
+        "solBalance": 0.018569000000000002,
+        "tokenBuyTx": "https://solscan.io/tx/5SRvMyQdjQ1iGS3bjZeVgD9f64PWi2pRaLKA8hmZ1HFHJXoju93J4d9Am4hwjzun8QQJrMoF9bqW9mWVpSvmKPxB",
+        "tokenSellTx": null
+    }
+]
