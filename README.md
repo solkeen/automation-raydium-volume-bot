@@ -1,6 +1,6 @@
 # raydium-volume-bot + monitor
 
-Raydium volume bot + Monitor : This bot can proceed buy and sell over and over until token price is over $ XX
+Raydium volume bot + Monitor : This bot can proceed buy and sell over and over until token price is above $XX and below $YY
 
 <h4> 📞 Cᴏɴᴛᴀᴄᴛ ᴍᴇ Oɴ ʜᴇʀᴇ: 👆🏻 </h4>
 
